@@ -1,0 +1,15 @@
+### Firebase ###
+**/.firebase/
+
+### Visual Studio ###
+**/.vs
+
+### Testing ###
+/coverage
+
+### Build results ###
+/build
+
+### Misc ###
+**/node_modules/
+**/config
