@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "karma": "^5.1.0",
-    "mocha": "^7.2.0"
+    "mocha": "^10.2.0"
   }
 }
